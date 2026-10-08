@@ -11,7 +11,7 @@ I’m continuously refining my computational and statistical skills through hand
 - **Data Analytics & Visualization**: NumPy, Pandas, Matplotlib, Seaborn
 
 ### Projects
-- * 🔗 [Immigrazione tra dati e cronaca](https://github.com/DaniaChiari/Immigrazione-tra-dati-e-cronaca) — *Analisi dati in Python su articoli di giornale e statistiche ISTAT.*
+- [Immigrazione tra dati e cronaca](https://github.com/DaniaChiari/Immigrazione-tra-dati-e-cronaca) — *Analisi dati in Python su articoli di giornale e statistiche ISTAT.*
  
 ### Contacts
 - [LinkedIn](https://www.linkedin.com/in/daniachiari)
