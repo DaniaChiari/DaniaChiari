@@ -6,7 +6,7 @@ My background combines theoretical linguistics across all core levels of analysi
 
 I’m continuously refining my computational and statistical skills through hands-on projects, available on this profile.
 
-[CV] [CV_DaniaChiari.pdf](https://github.com/user-attachments/files/34071678/CV_DaniaChiari.pdf)
+[CV_DaniaChiari.pdf](https://github.com/user-attachments/files/34071678/CV_DaniaChiari.pdf) (italian version)
 
 ### Skills
 - **Programming**: Python, R, RStudio
